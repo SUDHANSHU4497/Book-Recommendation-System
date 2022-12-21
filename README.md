@@ -3,6 +3,16 @@
 2. Problem Statement
 3. Dataset Information
 4. Conclusion
+
+<p align="center">
+  <img 
+    width="750"
+    height="400"
+    src = "https://miro.medium.com/max/623/1*hQAQ8s0-mHefYH83uDanGA.gif">
+</p>
+
+
+
 *****
 
 1. Introduction:
